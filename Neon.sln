@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neon", "Neon\Neon.csproj", "{00B76C76-BC80-4AC7-AEA7-E28BD65F3F7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeonTest", "NeonTest\NeonTest.csproj", "{59112FB2-4E52-4FB5-A9FE-55289D9184A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{00B76C76-BC80-4AC7-AEA7-E28BD65F3F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00B76C76-BC80-4AC7-AEA7-E28BD65F3F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00B76C76-BC80-4AC7-AEA7-E28BD65F3F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59112FB2-4E52-4FB5-A9FE-55289D9184A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59112FB2-4E52-4FB5-A9FE-55289D9184A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59112FB2-4E52-4FB5-A9FE-55289D9184A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59112FB2-4E52-4FB5-A9FE-55289D9184A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
